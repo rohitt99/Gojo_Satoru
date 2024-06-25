@@ -60,22 +60,22 @@ class Development:
 
     # Fill in these vars if you want to use Traditional method of deploying
     LOGGER = True
-    BOT_TOKEN = "YOUR BOT_TOKEN"
-    API_ID = 12345  # Your APP_ID from Telegram
-    API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
-    OWNER_ID = 1344569458  # Your telegram user id defult to mine
-    MESSAGE_DUMP = -100845454887  # Your Private Group ID for logs
+    BOT_TOKEN = "6938324585:AAESsDWsNja6lf89EKd25CkMtoJR9D-VQpU"
+    API_ID = 25830228  # Your APP_ID from Telegram
+    API_HASH = "a23a5133bddbdab87df3df06ccf63a89"  # Your APP_HASH from Telegram
+    OWNER_ID = 6722550550  # Your telegram user id defult to mine
+    MESSAGE_DUMP = -1001977784654  # Your Private Group ID for logs
     DEV_USERS = []
     SUDO_USERS = []
     WHITELIST_USERS = []
-    DB_URI = ""  # Your mongo DB URI
-    DB_NAME = ""  # Your DB name
+    DB_URI = "postgresql://xrlkskby:gobwyeqocauwmdrggqom@alpha.mkdb.sh:5432/rjfvbvce"  # Your mongo DB URI
+    DB_NAME = "Akshar"  # Your DB name
     NO_LOAD = []
     GENIUS_API_TOKEN = ""
     RMBG_API = ""
     PREFIX_HANDLER = ["!", "/","$"]
-    SUPPORT_GROUP = "SUPPORT_GROUP"
-    SUPPORT_CHANNEL = "SUPPORT_CHANNEL"
+    SUPPORT_GROUP = "IMPERILMENT_SUPPORT"
+    SUPPORT_CHANNEL = "imperilment_channel"
     VERSION = "VERSION"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = ""
